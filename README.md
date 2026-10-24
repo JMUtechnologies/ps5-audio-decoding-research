@@ -1,3 +1,5 @@
+> **Preservation copy:** Original research by **BlackBearReloaded**, recovered from [manoma080/ps5-audio-decoding-research](https://github.com/manoma080/ps5-audio-decoding-research) and preserved by **JMUtechnologies**. Original credits, licenses, files, and available history are retained. See [PRESERVATION.md](PRESERVATION.md) for the exact revision and limits.
+
 # PS5 Audio Decoding Research
 
 [![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue.svg)](LICENSE)
